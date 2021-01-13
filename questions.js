@@ -68,10 +68,7 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0
-			
- <button class="button" onclick="location.href='instructions.html';" style="font-size:36pt;">Yes</button>
- 
+            "govt": 0 
         }
     },
     {
