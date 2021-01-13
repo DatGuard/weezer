@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Anything after Pinkerton is utter shit"
+        "question": "Anything after Pinkerton is utter shit",
         "effect": {
             "econ": 10,
             "dipl": 0,
